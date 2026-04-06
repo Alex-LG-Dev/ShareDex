@@ -31,7 +31,7 @@ Thumbs.db
 
 # Claude
 .claude/
-
+CLAUDE.md
 # Testing
 coverage/
 

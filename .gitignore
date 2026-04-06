@@ -1,0 +1,40 @@
+# Dependencias
+node_modules/
+
+# Build Angular
+dist/
+tmp/
+.angular/
+
+# Build AdonisJS
+build/
+
+# Entorno
+.env
+.env.*
+!.env.example
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Claude
+.claude/
+
+# Testing
+coverage/
+
+# Tmp
+*.tmp
+*.bak
